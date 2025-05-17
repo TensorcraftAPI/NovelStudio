@@ -1,1 +1,9 @@
-{"version": "1.0", "VersionNumber": 1}
+{
+  "latest": "1.0.0",
+  "VersionNumber": 1
+  "download": "https://github.com/TensorcraftAPI/NovelStudio/releases/download/1.0.0/NovelStudio.dmg",
+  "changelog": {
+    "zh": "首次发布",
+    "en": "First Release"
+  }
+}
